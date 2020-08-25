@@ -1,6 +1,7 @@
 *.log
 *.tmp
 *.o
+test
 #.metadata/*
 #Inc/Backup/
 #Src/Backup/
