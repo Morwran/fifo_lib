@@ -1,0 +1,9 @@
+.log
+.tmp
+.o
+#.metadata/*
+#Inc/Backup/
+#Src/Backup/
+~$*
+#/doc/doxygen/*
+#!/doc/doxygen/Doxyfile
